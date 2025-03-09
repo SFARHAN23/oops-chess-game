@@ -41,15 +41,6 @@ Explanation:
 │── README.md             📜 Project documentation
 │── LICENSE               📝 License file
 
-## 🏗️ INSTALLATION & SETUP
- 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/oop-chess-game.git
-cd oop-chess-game
-
- 2️⃣ Compile and Run the Game
-g++ -o chess_game src/*.cpp -std=c++17
-./chess_game
-
 ## 🎮 HOW TO PLAY
 - Start the game and follow the on-screen instructions.
 - Input moves using standard chess notation (e.g., E2 E4).
